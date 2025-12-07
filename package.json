@@ -1,14 +1,13 @@
-    {
-      "name": "render-24-7-discord-bot",
-      "version": "1.0.0",
-      "description": "Discord Bot for 24/7 hosting on Render using a Keep-Alive server.",
-      "main": "index.js",
-      "scripts": {
-        "start": "node index.js"
-      },
-      "dependencies": {
-        "discord.js": "^14.15.3",
-        "express": "^4.19.2"
-      }
-    }
-    
+{
+  "name": "Heroku-24-7-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for 24/7 hosting on Heroku using a Keep-Alive server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2"
+  }
+}
